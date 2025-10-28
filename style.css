@@ -1,0 +1,234 @@
+img{
+ max-width: 50%;
+ margin-left: 25%;
+}
+
+.link{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(242, 157, 53);
+    font-size: 35px;
+}
+
+#logo{
+    max-width: 40%;
+    margin-right: 40%;
+}
+
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+
+form{
+    font-size: 20px;
+    word-spacing: 5px;
+    margin-left: 18%;
+}
+
+input{
+    font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 150px;
+}
+
+.s{
+    font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 15%; 
+}
+
+.A{
+     font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 115px
+}
+
+.b{
+     font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 175px; 
+}
+
+.c{
+     font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 96px; 
+}
+
+.d{
+     font-size: 15px;
+    /* word-spacing: 5px; */
+    margin-left: 185px; 
+}
+
+
+
+textarea{
+    font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 185px; 
+}
+
+#main{
+    display: flex;
+}
+
+.f{
+    font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 219px; 
+}
+
+.g{
+    font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 169px; 
+}
+
+.h{
+     font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 206px; 
+}
+
+.i{
+    font-size: 15px;
+    word-spacing: 5px;
+    margin-left: 168px; 
+}
+
+.j{
+    font-size: 15px;
+    margin-left: 187px;
+    
+}
+
+#main-content{
+    align-items:self-start;
+    align-content: flex-start;
+    display: flex;
+}
+
+.k{
+    margin-left: auto;
+}
+
+#focus{
+    display: flex;
+    
+}
+
+.l{
+    margin-left: 115px;
+}
+
+.M{
+    margin-left: 75px;
+}
+
+.N{
+    margin-left: 105px;
+}
+
+.O{
+    margin-left: 95px;
+}
+.m{
+    margin-left: 270px;
+}
+
+.n{
+    margin-left: 50px;
+}
+
+.o{
+    margin-left: 75px;
+}
+
+.p{
+    margin-left: 10px;
+}
+
+.q{
+    margin-left: 10px;
+}
+
+.P{
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.Q{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.R{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.z{
+    margin-left: 115px;
+    font-size: 15px;
+}
+
+.x{
+    font-size: 15px;
+    margin-left: 65px;
+}
+
+select{
+    margin-left: 50px;
+}
+
+.btn{
+    align-items: center;
+    margin-left: 400px;
+}
+
+.btn1{
+    margin-left: -5px;
+}
+
+.file{
+    margin-left: 20px;
+}
+
+h2{
+text-align: center;
+}
+
+.E{
+    text-align: center;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+
+.D{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#Email{
+    display: flex;
+}
+
+.F{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.btn2{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.btn3{
+    margin-left: -5px;
+}
